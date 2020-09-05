@@ -1,0 +1,8 @@
+.page {
+  background: green;
+}
+
+.page .text {
+  color: white;
+  text-transform: uppercase;
+}
